@@ -58,7 +58,7 @@
                         <div class="card-body p-4">
                             <div class="row d-flex justify-content-between align-items-center">
                                 <div class="col-md-2 col-lg-2 col-xl-2">
-                                    <img src="C:\xampp1\htdocs\Praktikum4\public\asset\mcflurry.jpg" alt="McFlurry" class="img-fluid rounded-3">
+                                    <img src="https://www.mcdelivery.co.id/m/id/static/1697203597109/assets/62/products/133128.png?" alt="McFlurry" class="img-fluid rounded-3">
                                 </div>
                                 <div class="col-md3 col-lg-3 col-xl-3">
                                     <p class="lead fw-normal mb-2">McFlurry</p>
